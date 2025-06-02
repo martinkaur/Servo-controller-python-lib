@@ -1,4 +1,4 @@
-# Python library for Servo Arm Controller project
+# Python UI library for Servo Arm Controller project
 Used for interfacing with the controller.
 To start the program, run ```main.py```.
 To exit, type "end" in the active terminal.
